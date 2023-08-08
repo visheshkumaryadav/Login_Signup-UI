@@ -1,0 +1,20 @@
+.container-fluid{
+background-color: cadetblue;
+}
+h2{
+    margin-top: 5px;
+    text-align: center;
+}
+.AA{
+    color: blue;
+}
+img{
+    top: 3px;
+    width: 500px;
+    height: 420px;
+}
+.BB{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 70px;
+}
